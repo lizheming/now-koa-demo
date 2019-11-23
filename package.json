@@ -1,0 +1,23 @@
+{
+  "name": "now-koa-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizheming/now-koa-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizheming/now-koa-demo/issues"
+  },
+  "homepage": "https://github.com/lizheming/now-koa-demo#readme",
+  "dependencies": {
+    "koa": "^2.11.0"
+  }
+}
